@@ -1,7 +1,7 @@
 
 venv/
 .venv/
-stock-predictor-env/
+stock-trend-env/
 __pycache__/
 .ipynb_checkpoints/
 
