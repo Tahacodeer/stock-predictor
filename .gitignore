@@ -1,7 +1,22 @@
-
+# Virtual environments
 venv/
 .venv/
-stock-trend-env/
+stock-predictor-env/
+
+# Python cache
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
 .ipynb_checkpoints/
+Untitled.ipynb
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+data/
 
